@@ -80,7 +80,8 @@ _The biggest chunk of the exam. Master this first._
 
 | Resource | Description |
 |----------|-------------|
-| [Practice Exam](practice-exam.md) | 60 multiple-choice questions matching real exam format and domain weightage |
+| [Practice Exam 1](practice-exam.md) | 60 multiple-choice questions matching real exam format and domain weightage |
+| [Practice Exam 2](practice-exam-2.md) | A second 60-question exam with different questions, same domain weightage |
 | [Cheat Sheet](cheat-sheet.md) | One-page quick-review reference for last-minute revision |
 | [Glossary](glossary.md) | Alphabetical list of key terms and definitions |
 
